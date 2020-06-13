@@ -19,7 +19,7 @@
 
 ## Data-Analysis-With-Python
 
-- [Day-9](https://github.com/ankitdobhal/30-Days-Of-Jupyter/blob/master/Data-Science-With-Python/day9.ipynb)  - **Data Analysis basics with Python.**
-- [Day-10](https://github.com/ankitdobhal/30-Days-Of-Jupyter/blob/master/Data-Science-With-Python/day8.ipynb) - **Data Wrangling With Python.**
+- [Day-9](https://github.com/ankitdobhal/30-Days-Of-Jupyter/blob/master/Data-Analysis-With-Python/day9.ipynb)  - **Data Analysis basics with Python.**
+- [Day-10](https://github.com/ankitdobhal/30-Days-Of-Jupyter/blob/master/Data-Analysis-With-Python/day10.ipynb) - **Data Wrangling With Python.**
 
 ## Machine-Learning-With-Python
